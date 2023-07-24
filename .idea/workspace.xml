@@ -5,31 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="472178f7-0e21-404b-9940-c5a2fafd590c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tarea 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhile/Cycle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhile/MainCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaquinaDsipensadora/CandyMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semaforo/MainTrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semaforo/TrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary/Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/activity/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/activity/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/activity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/activity/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/activity/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ciclo2/Cycle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ciclo2/MainCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ciclos/Ciclo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ciclos/PrincipalCiclo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch1/MainSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch1/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +70,18 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/davidgomez/IdeaProjects/Tarea 1/src/Main.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrincipalCiclo1">
-    <configuration name="Cycle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ciclo2.Cycle2" />
+  <component name="RunManager" selected="Application.MainPoint8">
+    <configuration name="MainPoint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint2" />
       <module name="Tarea 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ciclo2.*" />
+          <option name="PATTERN" value="Ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ciclo2.MainCycle" />
+    <configuration name="MainPoint3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint3" />
       <module name="Tarea 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ciclo2.*" />
+          <option name="PATTERN" value="Ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrincipalCiclo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ciclos.PrincipalCiclo1" />
+    <configuration name="MainPoint4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint4" />
       <module name="Tarea 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ciclos.*" />
+          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPoint5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint5" />
+      <module name="Tarea 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPoint8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint8" />
+      <module name="Tarea 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,9 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrincipalCiclo1" />
-        <item itemvalue="Application.MainCycle" />
-        <item itemvalue="Application.Cycle2" />
+        <item itemvalue="Application.MainPoint8" />
+        <item itemvalue="Application.MainPoint5" />
+        <item itemvalue="Application.MainPoint4" />
+        <item itemvalue="Application.MainPoint3" />
+        <item itemvalue="Application.MainPoint2" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +160,15 @@
       <option name="presentableId" value="Default" />
       <updated>1689249725789</updated>
       <workItem from="1689249726877" duration="7304000" />
-      <workItem from="1689336194846" duration="5694000" />
+      <workItem from="1689336194846" duration="6549000" />
+      <workItem from="1689941693146" duration="1088000" />
+      <workItem from="1689943348425" duration="3750000" />
+      <workItem from="1690136667638" duration="18167000" />
+      <workItem from="1690164198396" duration="3541000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
