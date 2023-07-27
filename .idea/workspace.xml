@@ -5,36 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="472178f7-0e21-404b-9940-c5a2fafd590c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Ejercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Point8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Agency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/MainFutbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/soccerPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +33,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="60cf55cb-ffdb-4fcd-a469-0827229a45a7" />
+        <option name="url" value="https://github.com/Davidgomez2405/semestre_II_1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SW5vLLCZoS6J3DT9ag9XlCAQlS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -164,11 +159,26 @@
       <workItem from="1689941693146" duration="1088000" />
       <workItem from="1689943348425" duration="3750000" />
       <workItem from="1690136667638" duration="18167000" />
-      <workItem from="1690164198396" duration="3541000" />
+      <workItem from="1690164198396" duration="4088000" />
+      <workItem from="1690172484933" duration="164000" />
+      <workItem from="1690500517315" duration="894000" />
     </task>
+    <task id="LOCAL-00001" summary="Seguimiento #1 - Semestre #2">
+      <option name="closed" value="true" />
+      <created>1690171898395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690171898395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seguimiento #1 - Semestre #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seguimiento #1 - Semestre #2" />
   </component>
 </project>
