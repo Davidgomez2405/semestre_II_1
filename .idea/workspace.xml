@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="472178f7-0e21-404b-9940-c5a2fafd590c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Agency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/MainFutbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Suma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/mainSuma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/soccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Arena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Carr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/MainCarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/MainGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/MainPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +66,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainPoint8">
-    <configuration name="MainPoint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.MainPoint2" />
+  <component name="RunManager" selected="Application.MainCarr">
+    <configuration name="MainCarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.MainCarr" />
       <module name="Tarea 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="PATTERN" value="constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCarr" />
         <item itemvalue="Application.MainPoint8" />
         <item itemvalue="Application.MainPoint5" />
         <item itemvalue="Application.MainPoint4" />
         <item itemvalue="Application.MainPoint3" />
-        <item itemvalue="Application.MainPoint2" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +157,8 @@
       <workItem from="1690136667638" duration="18167000" />
       <workItem from="1690164198396" duration="4088000" />
       <workItem from="1690172484933" duration="164000" />
-      <workItem from="1690500517315" duration="894000" />
+      <workItem from="1690500517315" duration="966000" />
+      <workItem from="1690546003519" duration="4781000" />
     </task>
     <task id="LOCAL-00001" summary="Seguimiento #1 - Semestre #2">
       <option name="closed" value="true" />
@@ -171,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690171898395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seguimiento #1 - Semestre #2">
+      <option name="closed" value="true" />
+      <created>1690501450295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690501450295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
