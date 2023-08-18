@@ -8,3 +8,4 @@ public class MainPoint1 {
         point1.showCycle();
     }
 }
+
