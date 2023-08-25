@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="472178f7-0e21-404b-9940-c5a2fafd590c" name="Changes" comment="Clase #5 - Constructor">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MainServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ServicioCelular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agregacion/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agregacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agregacion/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/AnimalDomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Direccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/MainDomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios/MainPoint1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/MainPoint1.java" afterDir="false" />
-    </list>
+    <list default="true" id="472178f7-0e21-404b-9940-c5a2fafd590c" name="Changes" comment="Clases programacion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +160,7 @@
       <workItem from="1690927359026" duration="336000" />
       <workItem from="1690927706631" duration="7685000" />
       <workItem from="1692027838754" duration="242000" />
-      <workItem from="1692273663931" duration="4437000" />
+      <workItem from="1692273663931" duration="4810000" />
     </task>
     <task id="LOCAL-00001" summary="Seguimiento #1 - Semestre #2">
       <option name="closed" value="true" />
@@ -201,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690590010457</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clases programacion">
+      <option name="closed" value="true" />
+      <created>1692365097280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692365097280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seguimiento #1 - Semestre #2" />
     <MESSAGE value="Clase #5 - Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase #5 - Constructor" />
+    <MESSAGE value="Clases programacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clases programacion" />
   </component>
 </project>
